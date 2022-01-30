@@ -1,5 +1,15 @@
 # Flutter Pet UI
 
-- [Ui Credit](https://www.uplabs.com)
+Building a Pet UI in Flutter.
 
-![Detail view](screenshorts/1.jpg)
+### Show some :heart: and star the repo to support the project
+
+### Screenshots
+
+![Pet UI](screenshorts/1.jpg)
+
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
