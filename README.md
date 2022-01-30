@@ -2,8 +2,8 @@
 
 - [Ui Credit](https://www.uplabs.com)
 
-![Banner](screenshorts/1.jpg)
+![Detail view](screenshorts/1.jpg)
 
-![Banner](screenshorts/2.jpg)
+![Drawer](screenshorts/2.jpg)
 
-![Banner](screenshorts/3.jpg)
+![View](screenshorts/3.jpg)
