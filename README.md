@@ -1,1 +1,3 @@
-# pet_app_flutter![Screenshot (15)](https://user-images.githubusercontent.com/96682550/150963383-d9b49eb2-bda7-4a75-ad41-3a037be6652b.png)
+# Flutter App![Screenshot (15)](https://github.com/RutvikGoti/pet_app_flutter/blob/main/screenshots/1.jpg)
+# Flutter App![Screenshot (15)](https://github.com/RutvikGoti/pet_app_flutter/blob/main/screenshots/2.jpg)
+# Flutter App![Screenshot (15)](https://github.com/RutvikGoti/pet_app_flutter/blob/main/screenshots/3.jpg)
