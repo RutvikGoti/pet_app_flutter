@@ -1,3 +1,9 @@
-# Flutter App![Details View)](https://github.com/RutvikGoti/pet_app_flutter/blob/main/screenshots/1.jpg)
-# [Drawer](https://github.com/RutvikGoti/pet_app_flutter/blob/main/screenshots/2.jpg)
-# [Home](https://github.com/RutvikGoti/pet_app_flutter/blob/main/screenshots/3.jpg)
+# Flutter Pet UI
+
+- [Ui Credit](https://www.uplabs.com)
+
+![Banner](screenshorts/1.jpg)
+
+![Banner](screenshorts/2.jpg)
+
+![Banner](screenshorts/3.jpg)
